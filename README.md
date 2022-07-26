@@ -17,11 +17,12 @@ Note Collection Application developed using MERN
 ## How to run the application?
 1. open project directory in terminal
 2. type "npm install" (to install node modules for backend)
-3. type "npm start" (to run backend)
-4. type "cd frontend" (to move frontend directory)
-5. type "npm install" (to install node modules fro frontend)
-6. type "npm start" (to run frontend)
-7. application will start on your browser
+3. type "cd backend" (to move backend directory)
+4. type "npm start" (to run backend)
+5. type "cd frontend" (to move frontend directory)
+6. type "npm install" (to install node modules fro frontend)
+7. type "npm start" (to run frontend)
+8. application will start on your browser
 
 ## Admin Credentials
 Admin email: admin@gmail.com <br></br>
