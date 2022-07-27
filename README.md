@@ -68,7 +68,7 @@ Admin password: admin
 <h3>Create Note Page</h3>
 !["Note Collection"](https://res.cloudinary.com/dyelytpla/image/upload/v1658902454/create_note_ybrx1t.png "Note Collection")
 
-<h3>Note List Page/h3>
+<h3>Note List Page</h3>
 !["Note Collection"](https://res.cloudinary.com/dyelytpla/image/upload/v1658902581/notelist_sbmoly.png "Note Collection")
 
 <h3>Edit Note Page</h3>
