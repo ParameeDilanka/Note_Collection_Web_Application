@@ -14,7 +14,7 @@ Note Collection Application developed using MERN
 https://github.com/ParameeDilanka/Note_Collection_Web_Application.git
 
 ## You tube Demo Video Link
-![]()
+https://youtu.be/zLfMCfSyh58
 
 ## How to run the application?
 1. open project directory in terminal
