@@ -1,0 +1,23 @@
+.home_page{
+    min-height: calc(100vh - 100px);
+    padding: 20px;
+    background: #02254b;
+    color: #fff;
+}
+.home_page h2{
+    font-size: 2rem;
+    margin: 10px 0;
+    color: teal;
+}
+.home_page p{
+    color: white;
+    line-height: 1.5;
+    margin: 10px 0;
+    font-style: italic;
+}
+
+.home_page h3{
+    color: chocolate;
+    margin-top: 30px;
+}
+

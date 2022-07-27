@@ -1,0 +1,26 @@
+.loginContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+
+.button {
+	box-shadow:inset 0px -2px 0px 1px #9acc85;
+	background-color:#74ad5a;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	font-weight:bold;
+	padding:7px 25px;
+	text-decoration:none;
+}
+.button:hover {
+	background-color:#68a54b;
+}
+.button:active {
+	position:relative;
+	top:1px;
+}
