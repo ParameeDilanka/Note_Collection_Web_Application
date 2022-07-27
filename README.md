@@ -22,19 +22,19 @@ Note Collection Application developed using MERN
 6. application will start on your browser
 
 ## How to run docker-compose
-* build with no cache
-docker-compose build --no-cache
-* start the services
-docker-compose up
-* list the services
-docker-compose ps
-* list the containers
-docker ps
-* stop services
-docker-compose stop
+* build with no cache<br/>
+docker-compose build --no-cache<br/>
+* start the services<br/>
+docker-compose up<br/>
+* list the services<br/>
+docker-compose ps<br/>
+* list the containers<br/>
+docker ps<br/>
+* stop services<br/>
+docker-compose stop<br/>
 
 ## Admin Credentials
-Admin email: admin@gmail.com
+Admin email: admin@gmail.com<br/>
 Admin password: admin
 
 ## Built with 
