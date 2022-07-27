@@ -47,9 +47,6 @@ Admin password: admin
 
 # Preview
 
-!["Responsive React Movies App With API"](https://res.cloudinary.com/dyelytpla/image/upload/v1658902698/search_note_y7lybh.png "Responsive React Movies App With API")
-
-<h3>Home Page</h3>
 !["Note Collection"](https://res.cloudinary.com/dyelytpla/image/upload/v1658902125/main_ckhzfh.png "Note Collection")
 
 <h3>Login Page</h3>
