@@ -1,0 +1,25 @@
+version: "3"
+services:
+  
+  frontend:
+   build:
+      context: ./frontend
+      dockerfile: Dockerfile.dev
+   ports:
+    -  3000:3000
+   container_name: mern-frontend
+   networks:
+    -  mern-stack-net
+   volumes:
+    -  ./frontend/src:/frontend/src
+    -  ./frontend/public:/frontend/public
+   stdin_open: true
+   tty: true
+
+networks:
+  mern-stack-net:
+    driver: bridge
+
+volumes:
+  mongo-data:
+    driver: local
