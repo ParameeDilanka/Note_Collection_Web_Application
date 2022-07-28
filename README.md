@@ -21,8 +21,10 @@ https://youtu.be/zLfMCfSyh58
 2. type "npm i" (to install node modules for backend)
 3. type "cd frontend" (to move frontend directory)
 4. type "npm i" (to install node modules fro frontend)
-5. in the root directory, type "npm run dev"
-6. application will start on your browser
+5. in the frontend directory, type "npm start"
+6. type "cd backend" (to move backend directory)
+7. in the backend directory, type "npm start"
+8. application will start on your browser
 
 ## How to run docker-compose
 * build with no cache<br/>
